@@ -21,5 +21,7 @@
 }
 
 
+- (void)text1{
 
+}
 @end
