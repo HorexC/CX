@@ -22,7 +22,7 @@
 
 - (void)text2
 {
-
+    NSLog(@"text2");
 }
 
 - (void)text1{
