@@ -26,6 +26,6 @@
 }
 
 - (void)text1{
-
+    NSLog(@"123123");
 }
 @end
