@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
         // text1
-
+// config
     
 }
 
