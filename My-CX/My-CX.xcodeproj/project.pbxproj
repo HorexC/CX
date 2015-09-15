@@ -15,6 +15,7 @@
 		18441AF41AF793D6009491D0 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 18441AF21AF793D6009491D0 /* LaunchScreen.xib */; };
 		18441B001AF793D6009491D0 /* My_CXTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18441AFF1AF793D6009491D0 /* My_CXTests.m */; };
 		846D75E11B9EBC56007A8379 /* text2.m in Sources */ = {isa = PBXBuildFile; fileRef = 846D75E01B9EBC56007A8379 /* text2.m */; };
+		84BDEB381BA7EA1A00BD7C78 /* 123123ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BDEB371BA7EA1A00BD7C78 /* 123123ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		18441AFF1AF793D6009491D0 /* My_CXTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = My_CXTests.m; sourceTree = "<group>"; };
 		846D75DF1B9EBC56007A8379 /* text2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = text2.h; sourceTree = "<group>"; };
 		846D75E01B9EBC56007A8379 /* text2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = text2.m; sourceTree = "<group>"; };
+		84BDEB361BA7EA1A00BD7C78 /* 123123ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = 123123ViewController.h; sourceTree = "<group>"; };
+		84BDEB371BA7EA1A00BD7C78 /* 123123ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = 123123ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +97,8 @@
 				18441AE31AF793D5009491D0 /* Supporting Files */,
 				846D75DF1B9EBC56007A8379 /* text2.h */,
 				846D75E01B9EBC56007A8379 /* text2.m */,
+				84BDEB361BA7EA1A00BD7C78 /* 123123ViewController.h */,
+				84BDEB371BA7EA1A00BD7C78 /* 123123ViewController.m */,
 			);
 			path = "My-CX";
 			sourceTree = "<group>";
@@ -227,6 +232,7 @@
 				846D75E11B9EBC56007A8379 /* text2.m in Sources */,
 				18441AEC1AF793D5009491D0 /* ViewController.m in Sources */,
 				18441AE91AF793D5009491D0 /* AppDelegate.m in Sources */,
+				84BDEB381BA7EA1A00BD7C78 /* 123123ViewController.m in Sources */,
 				18441AE61AF793D5009491D0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
