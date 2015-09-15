@@ -25,8 +25,4 @@ DerivedData
 #
 #Pods/
 
-# OS generated files #    
-######################    
-.DS_Store    
-.DS_Store?    
-._*   sss
+.DS_Store
