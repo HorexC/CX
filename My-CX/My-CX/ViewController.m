@@ -17,22 +17,25 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
         // text1
-// config
-    //branch123
-}
+    // branch text2
+    // branch text2    // branch text2
+    // branch text2    // branch text2
+    // branch text2
 
-- (void)text2
+    
+    NSLog(@"branch-1");
+}
+- (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
 {
-    NSLog(@"text2");
-    NSLog(@"text2");
-    NSLog(@"text2");
-    NSLog(@"text2");
-    NSLog(@"text2");
-    NSLog(@"text2");
-    NSLog(@"text2");
+
 }
 
-- (void)text1{
-    NSLog(@"123123");
+-(void)touchesCancelled:(NSSet *)touches withEvent:(UIEvent *)event
+{
+
+}
+- (void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event
+{
+
 }
 @end
