@@ -41,4 +41,9 @@
 - (void)text1{
     NSLog(@"123123");
 }
+- (void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event
+{
+
+}
+
 @end
