@@ -24,5 +24,6 @@ DerivedData
 # http://guides.cocoapods.org/using/using-cocoapods.html#should-i-ignore-the-pods-directory-in-source-control
 #
 #Pods/
-[core]
- excludesfile = /Users/admin/Documents/temp/TestForGit/CX/.gitignore_global
+
+# My configurations:
+.DS_Store
