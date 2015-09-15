@@ -46,4 +46,9 @@
 {
 
 }
+
+- (void)touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event
+{
+
+}
 @end
